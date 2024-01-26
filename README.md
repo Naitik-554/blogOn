@@ -47,7 +47,7 @@ If you'd like to contribute to BlogOn, please fork the repository and submit a p
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Naitik-554/blogOn?tab=MIT-1-ov-file) file for details.
 
 ## Acknowledgments
 
